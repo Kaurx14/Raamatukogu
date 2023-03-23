@@ -1,0 +1,15 @@
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/bin/Debug/net6.0/LibraryManagementApp
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/bin/Debug/net6.0/LibraryManagementApp.deps.json
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/bin/Debug/net6.0/LibraryManagementApp.runtimeconfig.json
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/bin/Debug/net6.0/LibraryManagementApp.dll
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/bin/Debug/net6.0/LibraryManagementApp.pdb
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/obj/Debug/net6.0/LibraryManagementApp.csproj.AssemblyReference.cache
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/obj/Debug/net6.0/LibraryManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/obj/Debug/net6.0/LibraryManagementApp.AssemblyInfoInputs.cache
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/obj/Debug/net6.0/LibraryManagementApp.AssemblyInfo.cs
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/obj/Debug/net6.0/LibraryManagementApp.csproj.CoreCompileInputs.cache
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/obj/Debug/net6.0/LibraryManagementApp.dll
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/obj/Debug/net6.0/refint/LibraryManagementApp.dll
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/obj/Debug/net6.0/LibraryManagementApp.pdb
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/obj/Debug/net6.0/LibraryManagementApp.genruntimeconfig.cache
+/Users/kaurvadi/Desktop/LibraryManagementApp/LibraryManagementApp/obj/Debug/net6.0/ref/LibraryManagementApp.dll
